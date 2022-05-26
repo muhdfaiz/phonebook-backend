@@ -4,7 +4,7 @@ module.exports = {
      */
     ALLOWED_ORIGIN: [
         'http://localhost:3001/',
-        'https://628f580e66f215000b86d94a--quiet-dodol-232f73.netlify.app/',
+        'https://phonebook-frontend.netlify.app',
     ],
 
     /*
